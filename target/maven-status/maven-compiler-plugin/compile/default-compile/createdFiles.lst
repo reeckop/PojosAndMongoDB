@@ -1,0 +1,10 @@
+config\MongoConfig.class
+dao\IUsuarioDAO.class
+app\App.class
+dao\UsuarioDAO.class
+exception\EntityNotFoundException.class
+exception\DaoException.class
+model\Telefono.class
+model\Usuario.class
+config\MongoClientProvider.class
+model\Direccion.class
