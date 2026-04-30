@@ -1,10 +1,14 @@
 C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\app\App.java
 C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\config\MongoClientProvider.java
 C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\config\MongoConfig.java
+C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\dao\IProductoDAO.java
 C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\dao\IUsuarioDAO.java
+C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\dao\mongo\ProductoDAO.java
 C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\dao\UsuarioDAO.java
 C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\exception\DaoException.java
 C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\exception\EntityNotFoundException.java
 C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\model\Direccion.java
+C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\model\Producto.java
+C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\model\Proveedor.java
 C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\model\Telefono.java
 C:\Users\Ricardo\Documents\NetBeansProjects\PojosAndMongoDB\src\main\java\model\Usuario.java
